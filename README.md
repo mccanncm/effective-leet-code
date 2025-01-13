@@ -4,9 +4,8 @@ This repository contains my solutions to LeetCode problems along with correspond
 
 ## Repository Structure
 
-- **leet-code/**: Contains the C# solution files for each problem.
+- **leet-code/**: Contains the C# class files for each problem.
   - Each problem has its own file or folder for organization.
-  - Solutions are structured according to problem categories such as Arrays, Strings, Dynamic Programming, etc.
   
 - **leet-code.Tests/**: Contains the unit tests for the solutions using the xUnit framework.
   - Each test file corresponds to a specific problem or group of related problems.
